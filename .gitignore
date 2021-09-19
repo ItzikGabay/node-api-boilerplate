@@ -1,7 +1,12 @@
-# Ignore all files starting with "."
+# ignore all files starting with . or ~
 .*
+~*
+
 # Except gitignore.
 !.gitignore
+
+# ignore node/grunt dependency directories
+node_modules/
 
 # CodeEditor: VSCODE Files
 .history

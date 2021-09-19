@@ -1,9 +1,15 @@
 // Imports
 // ------
-const express = require('express');
+const express           = require('express');
 const app = express();
+const morgan = require('morgan');
+
 require('dotenv').config();
 
+
+
+// Local Imports
+// ----------
 const router = require('./routes/index');
 const logger = require('./utils/logger/index');
 
@@ -18,6 +24,7 @@ mongooseConnect.connectionListening();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use('/', router);
+app.use(morgan("common"));
 
 // Adding Auth
 // Adding Sockets

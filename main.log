@@ -764,3 +764,285 @@
 [2021-09-19T12:34:53.041] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
 [2021-09-20T01:03:51.524] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
 [2021-09-20T01:03:51.541] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:37:50.510] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:37:50.529] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:16.278] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:16.295] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:26.524] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:26.542] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:32.033] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:32.066] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:34.914] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:34.931] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:36.676] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:36.693] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:42.569] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:42.587] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:44.501] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:44.518] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:38:54.522] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:38:54.540] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:39:02.485] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:39:02.515] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:39:05.449] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:39:05.465] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:41:18.574] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:41:18.592] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:41:35.414] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:41:35.430] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:43:30.052] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:43:30.068] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:46:28.275] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:46:28.291] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T01:47:06.762] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:47:06.778] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:48:12.809] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:48:12.825] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:48:49.044] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:48:49.061] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:49:05.514] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:49:05.532] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:49:18.639] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:49:18.666] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:49:19.745] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:49:19.766] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:49:20.896] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:49:20.913] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:49:26.860] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:49:26.877] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:50:14.043] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:50:14.060] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:50:16.641] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:50:16.657] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:50:22.256] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:50:22.272] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:50:25.076] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:50:25.096] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:50:46.667] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:50:46.683] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:50:54.220] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:50:54.236] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:50:56.414] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:50:56.437] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:51:14.686] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:51:14.702] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:51:18.976] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:51:18.992] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T01:51:55.119] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T01:51:55.135] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T02:00:24.961] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:00:24.989] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb+srv://admin:admin2@main.gewhd.mongodb.net/tripletCode?retryWrites=true&w=majority
+[2021-09-20T02:00:41.203] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:00:41.223] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:01:51.517] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:01:51.532] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:01:53.122] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:01:53.137] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:29.405] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:29.421] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:33.954] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:33.983] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:34.993] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:35.009] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:37.093] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:37.112] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:39.792] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:39.808] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:43.586] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:43.602] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:45.162] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:45.178] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:47.457] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:47.472] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:52.685] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:52.702] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:54.215] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:54.233] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:56.104] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:56.121] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:02:58.073] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:02:58.091] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:03:02.970] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:03:02.986] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:03:06.626] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:03:06.645] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:03:08.153] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:03:08.169] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:03:47.316] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:03:47.332] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:03:52.668] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:03:52.686] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:04:13.362] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:04:13.378] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:04:16.095] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:04:16.111] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:04:18.847] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:04:18.863] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:04:20.285] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:04:20.301] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:05:18.492] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:05:18.507] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:05:20.125] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:05:20.142] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:07:13.816] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:07:13.832] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:07:18.732] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:07:18.748] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:07:22.355] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:07:22.371] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:07:42.748] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:07:42.764] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:08:10.994] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:08:11.010] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:10:40.563] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:10:40.582] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:11:02.356] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:11:02.372] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:11:14.085] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:11:14.101] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:11:19.859] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:11:19.875] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:11:41.488] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:11:41.503] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:11:46.828] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:11:46.843] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:12:07.501] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:12:07.516] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:12:17.703] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:12:17.719] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:12:48.759] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:12:48.775] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:13:19.289] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:13:19.307] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:14:27.912] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:14:27.927] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:14:50.280] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:14:50.297] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:14:53.781] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:14:53.797] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:09.672] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:09.688] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:13.649] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:13.665] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:15.834] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:15.853] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:17.207] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:17.224] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:22.748] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:22.763] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:24.997] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:25.013] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:35.575] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:35.591] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:38.270] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:38.286] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:40.365] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:40.381] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:15:42.161] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:15:42.177] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:17:22.154] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:17:22.188] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:17:23.433] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:17:23.449] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:17:39.038] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:17:39.058] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:17:40.892] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:17:40.908] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:17:43.682] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:17:43.699] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:17:50.635] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:17:50.651] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:17:53.548] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:17:53.564] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:20:40.006] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:20:40.022] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:20:45.586] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:20:45.603] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:20:50.821] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:20:50.836] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:20:52.167] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:20:52.183] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:20:54.009] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:20:54.025] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:21:12.581] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:21:12.598] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:06.340] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:06.356] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:10.591] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:10.607] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:14.344] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:14.360] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:15.603] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:15.619] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:17.457] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:17.473] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:24.037] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:24.054] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:25.174] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:25.200] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:28.371] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:28.387] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:51.178] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:51.194] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:53.986] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:54.003] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:55.047] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:55.064] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:58.444] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:58.464] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:23:59.883] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:23:59.898] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:24:03.212] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:24:03.227] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:24:10.808] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:24:10.824] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:24:19.311] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:24:19.338] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:24:20.487] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:24:20.503] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:24:36.000] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:24:36.017] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:24:38.494] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:24:38.511] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:24:40.593] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:24:40.609] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:02.375] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:02.394] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:03.491] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:03.512] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:07.604] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:07.619] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:12.342] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:12.358] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:16.468] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:16.484] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:21.395] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:21.411] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:26.301] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:26.318] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:29.191] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:29.206] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:25:46.280] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:25:46.296] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:26:07.884] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:26:07.899] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:26:09.570] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:26:09.586] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:26:14.119] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:26:14.135] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:26:19.902] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:26:19.918] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:27:21.683] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:27:21.700] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:27:22.512] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:27:22.528] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:27:56.612] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:27:56.630] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:28:02.478] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:28:02.495] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:28:04.358] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:28:04.375] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:28:11.538] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:28:11.553] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-09-20T02:29:04.810] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-09-20T02:29:04.827] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
