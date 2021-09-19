@@ -1,0 +1,492 @@
+[2021-09-19T01:01:43.521] [ERROR] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:01:44.673] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:01:47.732] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:06:31.000] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:07:13.948] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:08:59.881] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:18:23.293] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:18:25.828] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:18:27.584] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:18:29.835] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:18:33.153] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:20:08.206] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:20:11.651] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:20:19.425] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:20:20.446] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:20:23.689] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:20:29.820] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:20.434] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:26.867] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:28.756] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:34.085] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:35.019] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:37.059] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:45.444] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:49.084] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:52.378] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:57.087] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:21:58.529] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:22:00.561] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:22:01.877] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:22:04.353] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:22:05.429] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:22:08.589] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:22:16.728] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:22:18.709] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:24:00.956] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:27:54.627] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:28:20.992] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:56:23.396] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:56:38.943] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:56:47.251] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T01:56:48.731] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:09:19.962] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:09:28.413] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:09:37.030] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:09:39.015] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:09:40.261] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:09:48.214] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:21.195] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:21.209] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:10:21.925] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:21.940] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:10:38.441] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:38.455] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:10:39.542] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:39.556] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:10:41.083] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:41.109] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:10:42.515] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:42.530] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:10:53.335] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:10:53.357] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:11:31.334] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:11:31.348] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:11:34.533] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:11:34.552] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:14.604] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:14.619] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:19.929] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:19.944] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:26.714] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:26.728] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:29.626] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:29.641] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:31.506] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:31.521] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:42.400] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:42.415] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:46.866] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:46.881] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:12:50.081] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:12:50.096] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:13:08.713] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:13:08.728] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:10.709] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:10.725] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:17.296] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:17.311] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:29.406] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:29.438] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:35.304] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:35.337] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:41.126] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:41.157] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:42.434] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:42.460] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:48.504] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:48.557] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:14:52.617] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:14:52.645] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:15:03.164] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:15:03.214] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:15:07.107] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:15:07.134] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:15:24.161] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:15:24.187] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:16:03.103] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:16:03.156] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:16:04.942] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:16:04.986] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:16:06.646] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:16:06.674] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:16:15.073] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:16:15.143] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:16:22.711] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:16:22.746] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:18:13.311] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:18:13.338] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:18:50.433] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:18:50.459] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:19:13.902] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:19:13.939] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:19:15.588] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:19:15.619] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:19:24.023] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:19:24.053] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:19:25.417] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:19:25.444] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:24:54.289] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:24:54.349] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:25:22.157] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:25:22.172] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:25:30.418] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:25:30.433] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:25:49.124] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:25:49.139] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:25:50.052] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:25:50.067] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:25:53.612] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:25:53.628] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:26:01.604] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:26:01.618] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:26:03.900] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:26:03.915] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:12.355] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:12.371] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:16.219] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:16.234] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:18.377] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:18.392] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:28.441] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:28.456] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:33.111] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:33.126] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:39.354] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:39.369] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:43.919] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:43.933] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:49.801] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:49.817] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:27:58.961] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:27:58.977] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:03.373] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:03.389] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:03.914] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:03.930] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:09.622] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:09.637] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:15.485] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:15.500] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:18.060] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:18.075] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:25.894] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:25.908] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:29.007] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:29.021] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:31.490] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:31.505] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:28:33.194] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:28:33.209] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:29:00.815] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:29:00.830] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:29:05.026] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:29:05.041] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:29:10.478] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:29:10.494] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:29:11.533] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:29:11.548] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:30:05.325] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:30:05.340] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:30:57.882] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:30:57.898] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:04.500] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:04.516] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:10.291] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:10.306] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:13.867] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:13.882] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:16.158] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:16.173] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:26.266] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:26.281] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:42.299] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:42.314] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:45.117] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:45.131] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:47.970] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:47.986] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:52.062] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:52.077] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:54.695] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:54.710] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:31:57.387] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:31:57.402] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:01.952] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:01.967] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:04.438] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:04.454] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:08.456] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:08.473] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:23.109] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:23.124] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:25.948] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:25.962] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:27.642] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:27.660] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:36.404] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:36.420] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:45.333] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:45.348] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:49.017] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:49.034] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:51.393] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:51.408] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:32:53.931] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:32:53.947] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:01.501] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:01.516] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:03.333] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:03.348] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:08.935] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:08.950] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:13.724] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:13.739] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:16.395] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:16.411] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:19.152] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:19.167] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:23.474] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:23.489] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:27.661] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:27.676] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:29.687] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:29.702] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:33:52.583] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:33:52.598] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:34:00.231] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:34:00.246] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:34:03.659] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:34:03.674] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:34:25.573] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:34:25.588] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:34:41.339] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:34:41.352] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:34:50.050] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:34:50.065] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:34:53.510] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:34:53.526] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:35:07.620] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:35:07.636] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:35:11.690] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:35:11.704] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:35:44.519] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:35:44.534] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:23.324] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:23.343] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:23.802] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:23.818] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:43.377] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:43.394] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:44.541] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:44.556] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:48.608] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:48.623] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:52.716] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:52.730] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:54.030] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:54.045] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:56.114] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:56.129] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:36:57.798] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:36:57.814] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:38:08.003] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:38:08.020] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:38:34.394] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:38:34.411] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:39:19.913] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:39:19.930] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:39:30.172] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:39:30.188] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:39:39.593] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:39:39.610] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:39:41.661] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:39:41.677] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:02.898] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:02.915] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:11.782] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:11.800] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:15.756] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:15.774] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:16.759] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:16.776] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:17.995] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:18.012] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:21.450] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:21.520] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:22.390] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:22.408] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:25.148] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:25.165] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:28.439] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:28.456] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:32.094] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:32.111] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:43.704] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:43.728] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:47.789] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:47.807] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:52.423] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:52.439] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:55.285] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:55.304] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:40:58.962] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:40:58.997] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:00.931] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:00.949] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:01.918] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:01.935] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:11.646] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:11.663] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:14.764] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:14.781] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:15.842] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:15.860] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:18.494] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:18.515] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:21.194] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:21.213] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:46.552] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:46.570] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:49.669] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:49.686] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:51.067] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:51.084] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:54.114] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:54.131] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:41:57.571] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:41:57.598] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:42:00.957] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:42:00.974] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:42:09.284] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:42:09.311] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:42:12.494] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:42:12.512] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:42:13.467] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:42:13.485] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:42:15.515] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:42:15.532] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:42:45.687] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:42:45.704] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:42:50.544] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:42:50.561] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:01.707] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:01.724] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:08.204] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:08.221] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:13.816] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:13.832] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:19.880] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:19.899] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:40.045] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:40.065] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:43.353] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:43.371] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:44.487] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:44.504] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:51.857] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:51.875] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:43:56.088] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:43:56.107] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:06.351] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:06.368] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:10.919] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:10.936] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:12.830] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:12.848] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:15.137] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:15.155] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:18.840] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:18.858] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:21.713] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:21.733] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:24.787] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:24.804] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:28.147] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:28.164] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:29.377] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:29.395] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:46.993] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:47.009] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:44:48.531] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:44:48.551] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:45:34.714] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:45:34.732] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:45:38.389] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:45:38.406] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:45:42.040] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:45:42.058] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:45:43.577] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:45:43.594] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:45:56.262] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:45:56.279] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:46:00.722] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:46:00.740] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:46:10.732] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:46:10.750] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:46:59.483] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:46:59.500] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:47:18.640] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:47:18.664] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:47:29.454] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:47:29.472] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:47:31.817] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:47:31.835] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:47:40.135] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:47:40.152] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:48:38.920] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:48:38.937] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:48:42.237] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:48:42.254] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T02:48:49.974] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T02:48:49.991] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:53:36.960] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:53:36.978] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:53:42.688] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:53:42.706] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:53:47.560] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:53:47.577] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:53:51.527] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:53:51.544] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:53:53.529] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:53:53.546] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:54:06.540] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:54:06.566] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:54:07.773] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:54:07.791] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:54:11.468] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:54:11.486] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:54:15.832] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:54:15.849] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:54:53.863] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:54:53.880] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:54:58.170] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:54:58.188] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:04.717] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:04.734] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:07.673] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:07.690] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:13.838] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:13.855] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:18.261] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:18.288] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:22.526] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:22.544] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:29.227] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:29.244] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:37.636] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:37.654] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:41.000] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:41.017] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:43.994] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:44.012] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:48.327] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:48.344] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:55:56.596] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:55:56.613] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:56:02.643] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:56:02.660] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T10:56:39.206] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T10:56:39.224] [INFO] main - 🚀 Mongoose connection established! 🚀
+[2021-09-19T11:53:20.343] [INFO] main - server listening on http://127.0.0.1:3000
+[2021-09-19T11:53:20.395] [INFO] main - 🚀 Mongoose connection established! 🚀

@@ -1,0 +1,9 @@
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
+const { v4: uuidv4 } = require('uuid');
+
+const userSchema = new Schema({
+   n
+});
+
+module.exports = mongoose.model('User', snippetsSchema);
