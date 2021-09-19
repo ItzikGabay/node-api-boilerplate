@@ -1,20 +1,22 @@
-// Imports
+// Global Imports
 // -----
-const express = require('express');
-const { route } = require('express/lib/application');
-const app = express();
 const router = require('express').Router({ mergeParams: true });
 
-const UserController = require('../controllers/users.controller');
+// Utils
+// ---
 const apiResponder = require('../utils/apiResponder');
+
+// Controllers
+// --------
+const UserController = require('../controllers/users.controller');
 
 /**
  * GET /index
  */
-router.get('/', async (req, res) => {
-    let result = await UserController.getUsersList();
-    apiResponder.successResponseWithData(res, '', result);
-});
+router.get('/', UserController.getUsersList);
+
+
+// TODO...
 
 /**
  * POST /index
