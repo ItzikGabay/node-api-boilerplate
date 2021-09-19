@@ -1,0 +1,8 @@
+# Ignore all files starting with "."
+.*
+# Except gitignore.
+!.gitignore
+
+# CodeEditor: VSCODE Files
+.history
+.vscode

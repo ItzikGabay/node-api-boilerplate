@@ -6,8 +6,7 @@ const UserService = require('../models/schema/user.schema');
  */
 exports.getUsers = async () => {
    return await UserService.find({});
-}
-
+};
 
 /**
  * Get user by his ID from the database.
@@ -16,4 +15,4 @@ exports.getUsers = async () => {
  */
 exports.getUserById = async () => {
    return await UserService.findById({});
-}
+};
