@@ -5,24 +5,37 @@ const router = require('express').Router({ mergeParams: true });
 // Utils
 // ---
 const apiResponder = require('../utils/apiResponder');
+const verifyAuth = require("../middleware/auth/verifyToken");
 
-// Controllers
+// Controllers ->
 // --------
 const UserController = require('../controllers/users.controller');
 
-/**
- * GET /index
- */
-router.get('/', UserController.getUsersList);
+// GET Request /index
+router.get('/', verifyAuth, UserController.getUsersList);
+
+// Auth
+// ---
+
+// POST Request /login
+router.post('/login', UserController.loginUser);
+
+// POST Request /register
+router.post('/register', UserController.registerUser);
+
+router.get('/profile', verifyAuth, UserController.userProfile);
+
+
+
+
 
 
 // TODO...
-
 /**
  * POST /index
  */
 router.post('/', (req, res) => {
-    apiResponder.successResponseWithData(res, '',req.body);
+    apiResponder.successResponseWithData(res, '', req.body);
 });
 
 /**
