@@ -26,9 +26,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/', router);
 app.use(morgan("common"));
 
-// Adding Auth
 // Adding Sockets
-// Add Joi Validation
 
 /**
  * Server listening for Prod/Dev.
