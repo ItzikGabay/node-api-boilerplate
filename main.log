@@ -2676,3 +2676,12 @@
 [2021-09-21T18:15:55.798] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
 [2021-09-21T18:16:02.983] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
 [2021-09-21T18:16:02.998] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-10-03T00:04:57.713] [INFO] main - Server Up Successfully. @see: http://127.0.0.1:3000
+[2021-10-03T00:04:57.775] [INFO] main - 🚀 Mongoose connection established! 🚀 - mongodb://localhost:27017/triplet
+[2021-10-03T00:07:37.922] [INFO] main - JOI: Username @test12 Joi /REGISTER passed successfully
+[2021-10-03T00:07:49.808] [INFO] main - JOI: Username @itzik12345 Joi /REGISTER passed successfully
+[2021-10-03T00:07:49.980] [INFO] main - MONGODB: Username @itzik12345 Added to 'Users' collection successfully.
+[2021-10-03T00:08:47.030] [INFO] main - JOI: Username @itzik12345@itzik12345.com Joi /LOGIN passed successfully
+[2021-10-03T00:08:47.136] [INFO] main - MONGODB: Username @itzik12345@itzik12345.com Just logged in successfully.
+[2021-10-03T00:08:56.258] [INFO] main - JOI: Username @itzik12345@itzik12345.com Joi /LOGIN passed successfully
+[2021-10-03T00:08:56.370] [INFO] main - MONGODB: Username @itzik12345@itzik12345.com Just logged in successfully.

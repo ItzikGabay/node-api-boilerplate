@@ -59,7 +59,10 @@ exports.loginUser = async (req, res) => {
     * 3. Create jwt
     */
    const token = jwt.sign({ _id: foundUser._id }, process.env.TOKEN_SECRET);
-
+// secret: 'itzikisgever'
+   // 123456
+   // itzikisgever_123456_45iefjhgbesd
+   // 3rferfy4ut4th4uk5ht45hk4hgk4
    /**
     * 4. Success login.
     */

@@ -26,10 +26,6 @@ router.post('/register', UserController.registerUser);
 router.get('/profile', verifyAuth, UserController.userProfile);
 
 
-
-
-
-
 // TODO...
 /**
  * POST /index
