@@ -7,8 +7,8 @@ const logger = require('../utils/logger');
  */
 exports.getAllUsers = async () => {
    try {
-      let data = await UserSchema.find();
-      return data;
+      const DB_result = await UserSchema.find();
+      return DB_result;
    } catch (e) {
       logger.warn('Could not find MongoDB Users.');
    }
@@ -21,8 +21,8 @@ exports.getAllUsers = async () => {
  */
 exports.getUserById = async (id) => {
    try {
-      let data = await UserSchema.findById(id);
-      return data;
+      const DB_result = await UserSchema.findById(id);
+      return DB_result;
    } catch (e) {
       logger.warn('Could not find MongoDB User.');
    }
